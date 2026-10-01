@@ -1,0 +1,7 @@
+[OPTIONAL — PASTE YOUR ACTUAL COMMAND HISTORY HERE]
+
+The activity's bonus asks for the commands used during the lab.
+
+You can generate it in Kali with:
+
+history > ~/commands_used.txt
